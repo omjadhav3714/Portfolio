@@ -252,6 +252,9 @@ header{
   line-height: 24px;
   color: #F8F9FA;
 }
+.card_link,.card_link:hover{
+  color: #00f2ee;
+}
 #cardIcon{
   color: #F8F9FA;
   height: 50px;
@@ -279,6 +282,9 @@ figure {
   }
   .copyright {
     background-color: #1a252f;
+  }
+  .getS,.getS:hover{
+    color: #F8F9FA;
   }
   #project{
     height: 100%;
