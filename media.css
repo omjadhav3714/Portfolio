@@ -4,6 +4,7 @@
 }
 #dev{
   font-size: 1.25rem;
+  margin-left: 20px;
 }
 .cards_wrap .card_item .film{
   font-size: 1.2rem;
@@ -20,6 +21,7 @@
 }
 #dev{
   font-size: 1.25rem;
+  margin-left: 20px;
 }
 #head1{
   margin-top: auto;
@@ -35,6 +37,10 @@
 }
 }
 @media screen and (max-width: 1024px){
+  #dev{
+    font-size: 1.25rem;
+    margin-left: 20px;
+  }
   .cards_wrap .card_item{
     width: 33%;
   }
@@ -50,6 +56,10 @@
 }
 
 @media screen and (max-width: 768px){
+  #dev{
+    font-size: 1.25rem;
+    margin-left: 20px;
+  }
   .cards_wrap .card_item{
     width: 50%;
   }
@@ -70,6 +80,10 @@
 }
 
 @media screen and (max-width: 568px){
+  #dev{
+    font-size: 1.25rem;
+    margin-left: 20px;
+  }
   .cards_wrap .card_item{
     width: 100%;
   }
@@ -84,5 +98,12 @@
   }
   #head{
   font-size: 1.7em;
+}
+}
+@media screen and (min-width: 300px){
+  #dev{
+    font-size: 1.25rem;
+    margin-left: 10px;
+  }
 }
 }
